@@ -200,9 +200,10 @@ footer {
 }
 .video_mobile {
 	width: 294px;
+	height:400px;
 }
 .banner_description {
-	width: 58%;
+	width: 56%;
 }
 .offer {
 	width: 100%;
@@ -222,7 +223,7 @@ footer {
 	min-height: 400px;
 }
 .video_mobile {
-	height: 417px;
+	height: 390px;
 }
 .banner_description h3 {
 	margin-top: 20px;
@@ -232,7 +233,7 @@ footer {
 .banner {
 	background: url(../images/banner_mobile.jpg) no-repeat;
 	background-size: 100% 825px;
-	min-height: 825px;
+	min-height: 800px;
 }
 .video_mobile_image {
 	margin: 0px auto;
